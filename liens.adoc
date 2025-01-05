@@ -1,3 +1,4 @@
+[%hardbreaks]
 http://spt06.perso.libertysurf.fr/eq.htm
 http://spt06.perso.libertysurf.fr/poncet.htm
 https://sites.google.com/site/tableequatoriale/home
@@ -5,7 +6,7 @@ https://www.webastro.net/forums/topic/140903-tutoriel-construction-quotfacilequo
 https://docmarco31.wixsite.com/docmarco/ma-premiere-table-equatoriale
 http://rmi.free.fr/Astro/table_equatoriale.htm
 https://www.astronomie-va.com/forum/viewtopic.php?t=1444
-
+[%hardbreaks]
 Don Peckham : http://www.dbpeckham.com/Telescope/EP/Don-EP.htm
 Jean-Pierre Houle : http://dbpeckham.com/Telescope/Houle_EP/Houle_EP.htm
 Magnitude 78: http://www.astrosurf.com/magnitude78/TelStrock/planche.html
