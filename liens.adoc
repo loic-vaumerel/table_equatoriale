@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=aIuF9bfbiW4
 [%hardbreaks]
 https://www.webastro.net/forums/topic/166166-construire-une-table-equatoriale/
 http://www.reinervogel.net/index_e.html?/Plattform/plattform_VNS_e.html
+
+[%hardbreaks]
+https://www.instructables.com/Equatorial-Platform-for-the-North/
